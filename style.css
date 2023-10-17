@@ -19,7 +19,8 @@ h1{
 .singleCategory {
    border: 2px solid black ;
    margin: 5px;
-   width: 400px;
+   
+   
 }
 .allCategories{
     display: flex;
