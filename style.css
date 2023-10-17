@@ -1,0 +1,30 @@
+a {
+    border: 2px solid black;
+    font-size: 20px;
+}
+nav {
+    background-color: pink;
+}
+body {
+    background-color: beige;
+    
+}
+img {
+    width: 300px;
+    height: auto;
+}
+h1{
+    text-align: center;
+}
+.singleCategory {
+   border: 2px solid black ;
+   margin: 5px;
+   width: 400px;
+}
+.allCategories{
+    display: flex;
+}
+footer {
+    background-color: pink;
+    text-align: center;
+}
